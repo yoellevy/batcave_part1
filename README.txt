@@ -1,4 +1,5 @@
 Submitted by:
-<student name> <id>
+yoel levy 308450717
 
 Anything extra you've implemented?
+no
